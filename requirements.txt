@@ -1,0 +1,18 @@
+# Core
+flask
+flask-cors
+streamlit
+python-dotenv
+
+# Database
+psycopg2-binary
+sqlalchemy
+
+# Gemini API (Google Generative AI SDK)
+google-generativeai
+
+# PDF Export (optional feature)
+reportlab
+
+# For parsing and utilities (if needed)
+requests
